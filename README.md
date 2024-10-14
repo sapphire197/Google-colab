@@ -21,3 +21,4 @@ https://www.geeksforgeeks.org/detecting-spam-emails-using-tensorflow-in-python/?
 https://www.geeksforgeeks.org/sms-spam-detection-using-tensorflow-in-python/?ref=lbp
 
 ### 7.Classify Handwritten Digits with Tensorflow - ML
+https://www.geeksforgeeks.org/python-classifying-handwritten-digits-with-tensorflow/?ref=lbp
