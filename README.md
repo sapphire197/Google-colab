@@ -17,4 +17,4 @@ https://www.geeksforgeeks.org/recommendation-system-in-python/?ref=lbp
 ### 5.Detecting Spam Emails Using Tensorflow in Python - ML
 https://www.geeksforgeeks.org/detecting-spam-emails-using-tensorflow-in-python/?ref=lbp
 
-### 6.SMS Spam Detection using TensorFlow in Python
+### 6.SMS Spam Detection using TensorFlow in Python - ML
