@@ -10,3 +10,9 @@ https://www.geeksforgeeks.org/ml-credit-card-fraud-detection/?ref=lbp
 
 ### 3.Disease Prediction Using Machine Learning - ML
 https://www.geeksforgeeks.org/disease-prediction-using-machine-learning/?ref=lbp
+
+### 4.Recommendation System in Python - Ml
+https://www.geeksforgeeks.org/recommendation-system-in-python/?ref=lbp
+
+### 5.Detecting Spam Emails Using Tensorflow in Python - ML
+https://www.geeksforgeeks.org/detecting-spam-emails-using-tensorflow-in-python/?ref=lbp
